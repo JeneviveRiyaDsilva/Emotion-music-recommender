@@ -1,0 +1,62 @@
+{
+  "happy": {
+    "quotes": [
+      "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+      "Happiness is not by chance, but by choice."
+    ],
+    "songs": [
+      "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+      "https://www.youtube.com/watch?v=Ho32Oh6b4jc"
+    ]
+  },
+  "sad": {
+    "quotes": [
+      "Even the darkest night will end and the sun will rise.",
+      "This too shall pass."
+    ],
+    "songs": [
+      "https://www.youtube.com/watch?v=RBumgq5yVrA",
+      "https://www.youtube.com/watch?v=YykjpeuMNEk"
+    ]
+  },
+  "angry": {
+    "quotes": [
+      "For every minute you remain angry, you give up sixty seconds of peace of mind.",
+      "Speak when you are angry and you will make the best speech you will ever regret."
+    ],
+    "songs": [
+      "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+      "https://www.youtube.com/watch?v=oRdxUFDoQe0"
+    ]
+  },
+  "fear": {
+    "quotes": [
+      "Courage is resistance to fear, mastery of fear, not absence of fear.",
+      "Do the thing you fear, and the death of fear is certain."
+    ],
+    "songs": [
+      "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+      "https://www.youtube.com/watch?v=3AtDnEC4zak"
+    ]
+  },
+  "neutral": {
+    "quotes": [
+      "Be yourself; everyone else is already taken.",
+      "Do what you can, with what you have, where you are."
+    ],
+    "songs": [
+      "https://www.youtube.com/watch?v=60ItHLz5WEA",
+      "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    ]
+  },
+  "surprise": {
+    "quotes": [
+      "Life always offers you a second chance. It's called tomorrow.",
+      "Expect the unexpected and whenever possible be the unexpected."
+    ],
+    "songs": [
+      "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+      "https://www.youtube.com/watch?v=gl1aHhXnN1k"
+    ]
+  }
+}
